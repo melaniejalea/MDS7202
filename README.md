@@ -6,15 +6,23 @@ Entregas de los laboratorios y proyectos del ramo!
 </div>
 
 ## Integrantes
-🌸 Melanie Peña
-🧸 Valentina Rojas
+👩‍🎓 Melanie Peña
+👩‍🎓 Valentina Rojas
 
 ## Profesores
-🤖 Ignacio Meza
-👨🏻‍💻 Sebastian Tinoco
 
-## Profesora  Auxiliar
-🩰 Catherine Benavides
+👨‍🏫 Ignacio Meza De la Jara
+👨‍🏫 Sebastián Tinoco
+
+## Profesoras  Auxiliares
+👩‍🏭 Catherine Benavides
+👩‍🏭 Consuelo Rojas
+
 ## Ayudantes
-🍃 Eduardo Moya
-📝 Nicolás Ojeda
+👨‍💻 Eduardo Moya
+👨‍💻 Nicolás Ojeda
+
+
+---
+
+Bonito fin de semestre! 
